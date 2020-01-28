@@ -6,5 +6,3 @@ for i in range(len(bigStr)):
     summa += int(bigStr[i])
 
 print(summa)
-
-
